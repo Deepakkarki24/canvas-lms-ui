@@ -1,0 +1,20 @@
+🧠 Objective:
+Build a responsive front-end UI clone inspired by Canvas LMS. No backend is needed — use React.js (preferred) or HTML/CSS/JS with mock data. Focus on layout, responsiveness, and functionality.
+
+📄 Page 1: Dashboard (Home)
+
+Sidebar Navigation: Dashboard, Courses, Calendar, Inbox, Help
+ • Desktop: expanded • Tablet: icons • Mobile: hamburger toggle
+Header: “Welcome, [Student Name]” + current date
+Course Grid: 6 course cards showing title, instructor, progress bar, “Go to Course”
+ • Layout: Desktop (3 cols), Tablet (2), Mobile (1)
+To-Do List: 3–5 tasks with due dates and checkboxes
+(Bonus) Add calendar widget or notification banner
+📘 Page 2: Course Detail (/courses/:id)
+
+Breadcrumb: Dashboard > Course > Module
+Sections: Overview, Assignments, Grades (tabbed or vertical nav)
+Use static data to populate lists/tables
+➡️ Explore Canvas and replicate the UI and basic interaction of each page as closely as possible.
+
+🛠 Tech: React, Tailwind/SCSS/CSS Modules, mock JSON, responsive layout
